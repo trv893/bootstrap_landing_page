@@ -1,21 +1,21 @@
-
+/* sets carousel height and background color */
 .carousel-item {
     height: 32rem;
     background: #777;
 }
-
+/* sets size of logo on navbar */
 .nav_logos {
     max-height: 80px;
 }
-
+/* sets the max size fo the images in carousel */
 .car_img {
     max-height: 512px;
 }
-
+/* aligns the drop down items in nav bar to center 
 .text_nav_dropdown {
     text-align: center!important;
-}
-
+} */
+/* sets head hight so following elements are positioned below the nav bar */
 .head {
     height: 168px;
 }
