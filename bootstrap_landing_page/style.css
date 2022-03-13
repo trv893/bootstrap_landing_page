@@ -1,8 +1,4 @@
 
-.car_section{
-    margin-top: 160px;
-}
-
 .carousel-item {
     height: 32rem;
     background: #777;
@@ -16,14 +12,10 @@
     max-height: 512px;
 }
 
-@media {
-    
-}
-
-.text-aaa {
+.text_nav_dropdown {
     text-align: center!important;
 }
 
 .head {
-    height: 300px;
+    height: 168px;
 }
