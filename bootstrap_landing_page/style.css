@@ -1,6 +1,3 @@
-/* #test {
-    color: blue;
-} */
 
 .car_section{
     margin-top: 160px;
@@ -17,4 +14,16 @@
 
 .car_img {
     max-height: 512px;
+}
+
+@media {
+    
+}
+
+.text-aaa {
+    text-align: center!important;
+}
+
+.head {
+    height: 300px;
 }
