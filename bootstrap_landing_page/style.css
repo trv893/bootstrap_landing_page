@@ -1,7 +1,7 @@
 /* sets carousel height and background color */
 .carousel-item {
     height: 32rem;
-    background: #777;
+    background: lemonchiffon;
 }
 /* sets size of logo on navbar */
 .nav_logos {
@@ -26,6 +26,11 @@
       height: 81px;
     }
     .carousel-inner img {
-        margin-top: 73.5px;
+        margin-top: 20%;
+        /* margin-top: 73.5px; */
     }
+  }
+
+  .carousel-indicators [type="button"] {
+      background-color: #189B48;
   }
