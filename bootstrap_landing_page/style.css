@@ -17,5 +17,15 @@
 } */
 /* sets head hight so following elements are positioned below the nav bar */
 .head {
-    height: 168px;
+    height: 159px;
 }
+
+@media only screen and (max-width: 576px) {
+    /* sets the headder to have a smaller width on phone devices to minimize gap between main and navbar */
+    .head{
+      height: 81px;
+    }
+    .carousel-inner img {
+        margin-top: 73.5px;
+      
+  }
