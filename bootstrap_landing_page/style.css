@@ -1,6 +1,6 @@
 /* sets carousel height and background color */
 .carousel-item {
-    height: 32rem;
+    height: 28rem;
     background: lemonchiffon;
 }
 /* sets size of logo on navbar */
@@ -9,7 +9,7 @@
 }
 /* sets the max size fo the images in carousel */
 .car_img {
-    max-height: 512px;
+    max-height: 26rem;
 }
 /* aligns the drop down items in nav bar to center 
 .text_nav_dropdown {
@@ -26,11 +26,35 @@
       height: 81px;
     }
     .carousel-inner img {
-        margin-top: 20%;
+        margin-top: 10%;
         /* margin-top: 73.5px; */
     }
   }
+  
+
+
+
 
   .carousel-indicators [type="button"] {
       background-color: #189B48;
   }
+
+
+  .redborder
+{
+    border: 3px solid red;
+
+}
+
+.greenborder
+{
+    border: 3px solid green;
+
+}
+
+
+.blueborder
+{
+    border: 3px solid blue;
+
+}
